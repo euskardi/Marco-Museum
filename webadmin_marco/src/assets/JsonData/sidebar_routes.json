@@ -1,0 +1,13 @@
+[
+    
+    {
+        "display_name": "Agenda",
+        "route": "/agenda",
+        "icon": "bx bx-calendar"
+    },
+    {
+        "display_name": "Usuarios",
+        "route": "/usuarios",
+        "icon": "bx bx-user"
+    }
+]

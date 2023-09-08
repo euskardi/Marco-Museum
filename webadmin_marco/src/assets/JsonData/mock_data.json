@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "usuario" : "adrianlc",
+        "fecha" : "10/21/2021",
+        "hora" : "10:00 A.M.",
+        "turno" : 1,
+        "n_personas" : 4
+    },
+    {
+        "id": 2,
+        "usuario": "usuario2",
+        "fecha": "10/21/2021",
+        "hora": "10:30 A.M.",
+        "turno": 2,
+        "n_personas": 2
+    },
+    {
+        "id": 3,
+        "usuario": "usuario21",
+        "fecha": "10/21/2021",
+        "hora": "11:00 A.M.",
+        "turno": 3,
+        "n_personas": 1
+    },
+    {
+        "id": 4,
+        "usuario": "usuario12",
+        "fecha": "10/21/2021",
+        "hora": "11:30 A.M.",
+        "turno": 4,
+        "n_personas": 6
+    }
+]

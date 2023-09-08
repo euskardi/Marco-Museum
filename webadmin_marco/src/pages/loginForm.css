@@ -1,0 +1,14 @@
+.loginForm{
+    padding: 20px;
+    background-color: #fd4674;
+    text-align: center;
+    margin-top: 2%;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+.loginText{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
